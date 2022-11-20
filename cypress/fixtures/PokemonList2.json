@@ -1,0 +1,3216 @@
+﻿
+    {
+        "data": { 
+            "allPokemons": [
+    {
+        "\"id\"": "1",
+        "pokemonname": "bulbasaur"
+    },
+    {
+        "\"id\"": "2",
+        "pokemonname": "ivysaur"
+    },
+    {
+        "\"id\"": "3",
+        "pokemonname": "venusaur"
+    },
+    {
+        "\"id\"": "4",
+        "pokemonname": "charmander"
+    },
+    {
+        "\"id\"": "5",
+        "pokemonname": "charmeleon"
+    },
+    {
+        "\"id\"": "6",
+        "pokemonname": "charizard"
+    },
+    {
+        "\"id\"": "7",
+        "pokemonname": "squirtle"
+    },
+    {
+        "\"id\"": "8",
+        "pokemonname": "wartortle"
+    },
+    {
+        "\"id\"": "9",
+        "pokemonname": "blastoise"
+    },
+    {
+        "\"id\"": "10",
+        "pokemonname": "caterpie"
+    },
+    {
+        "\"id\"": "11",
+        "pokemonname": "metapod"
+    },
+    {
+        "\"id\"": "12",
+        "pokemonname": "butterfree"
+    },
+    {
+        "\"id\"": "13",
+        "pokemonname": "weedle"
+    },
+    {
+        "\"id\"": "14",
+        "pokemonname": "kakuna"
+    },
+    {
+        "\"id\"": "15",
+        "pokemonname": "beedrill"
+    },
+    {
+        "\"id\"": "16",
+        "pokemonname": "pidgey"
+    },
+    {
+        "\"id\"": "17",
+        "pokemonname": "pidgeotto"
+    },
+    {
+        "\"id\"": "18",
+        "pokemonname": "pidgeot"
+    },
+    {
+        "\"id\"": "19",
+        "pokemonname": "rattata"
+    },
+    {
+        "\"id\"": "20",
+        "pokemonname": "raticate"
+    },
+    {
+        "\"id\"": "21",
+        "pokemonname": "spearow"
+    },
+    {
+        "\"id\"": "22",
+        "pokemonname": "fearow"
+    },
+    {
+        "\"id\"": "23",
+        "pokemonname": "ekans"
+    },
+    {
+        "\"id\"": "24",
+        "pokemonname": "arbok"
+    },
+    {
+        "\"id\"": "25",
+        "pokemonname": "pikachu"
+    },
+    {
+        "\"id\"": "26",
+        "pokemonname": "raichu"
+    },
+    {
+        "\"id\"": "27",
+        "pokemonname": "sandshrew"
+    },
+    {
+        "\"id\"": "28",
+        "pokemonname": "sandslash"
+    },
+    {
+        "\"id\"": "29",
+        "pokemonname": "nidoran-f"
+    },
+    {
+        "\"id\"": "30",
+        "pokemonname": "nidorina"
+    },
+    {
+        "\"id\"": "31",
+        "pokemonname": "nidoqueen"
+    },
+    {
+        "\"id\"": "32",
+        "pokemonname": "nidoran-m"
+    },
+    {
+        "\"id\"": "33",
+        "pokemonname": "nidorino"
+    },
+    {
+        "\"id\"": "34",
+        "pokemonname": "nidoking"
+    },
+    {
+        "\"id\"": "35",
+        "pokemonname": "clefairy"
+    },
+    {
+        "\"id\"": "36",
+        "pokemonname": "clefable"
+    },
+    {
+        "\"id\"": "37",
+        "pokemonname": "vulpix"
+    },
+    {
+        "\"id\"": "38",
+        "pokemonname": "ninetales"
+    },
+    {
+        "\"id\"": "39",
+        "pokemonname": "jigglypuff"
+    },
+    {
+        "\"id\"": "40",
+        "pokemonname": "wigglytuff"
+    },
+    {
+        "\"id\"": "41",
+        "pokemonname": "zubat"
+    },
+    {
+        "\"id\"": "42",
+        "pokemonname": "golbat"
+    },
+    {
+        "\"id\"": "43",
+        "pokemonname": "oddish"
+    },
+    {
+        "\"id\"": "44",
+        "pokemonname": "gloom"
+    },
+    {
+        "\"id\"": "45",
+        "pokemonname": "vileplume"
+    },
+    {
+        "\"id\"": "46",
+        "pokemonname": "paras"
+    },
+    {
+        "\"id\"": "47",
+        "pokemonname": "parasect"
+    },
+    {
+        "\"id\"": "48",
+        "pokemonname": "venonat"
+    },
+    {
+        "\"id\"": "49",
+        "pokemonname": "venomoth"
+    },
+    {
+        "\"id\"": "50",
+        "pokemonname": "diglett"
+    },
+    {
+        "\"id\"": "51",
+        "pokemonname": "dugtrio"
+    },
+    {
+        "\"id\"": "52",
+        "pokemonname": "meowth"
+    },
+    {
+        "\"id\"": "53",
+        "pokemonname": "persian"
+    },
+    {
+        "\"id\"": "54",
+        "pokemonname": "psyduck"
+    },
+    {
+        "\"id\"": "55",
+        "pokemonname": "golduck"
+    },
+    {
+        "\"id\"": "56",
+        "pokemonname": "mankey"
+    },
+    {
+        "\"id\"": "57",
+        "pokemonname": "primeape"
+    },
+    {
+        "\"id\"": "58",
+        "pokemonname": "growlithe"
+    },
+    {
+        "\"id\"": "59",
+        "pokemonname": "arcanine"
+    },
+    {
+        "\"id\"": "60",
+        "pokemonname": "poliwag"
+    },
+    {
+        "\"id\"": "61",
+        "pokemonname": "poliwhirl"
+    },
+    {
+        "\"id\"": "62",
+        "pokemonname": "poliwrath"
+    },
+    {
+        "\"id\"": "63",
+        "pokemonname": "abra"
+    },
+    {
+        "\"id\"": "64",
+        "pokemonname": "kadabra"
+    },
+    {
+        "\"id\"": "65",
+        "pokemonname": "alakazam"
+    },
+    {
+        "\"id\"": "66",
+        "pokemonname": "machop"
+    },
+    {
+        "\"id\"": "67",
+        "pokemonname": "machoke"
+    },
+    {
+        "\"id\"": "68",
+        "pokemonname": "machamp"
+    },
+    {
+        "\"id\"": "69",
+        "pokemonname": "bellsprout"
+    },
+    {
+        "\"id\"": "70",
+        "pokemonname": "weepinbell"
+    },
+    {
+        "\"id\"": "71",
+        "pokemonname": "victreebel"
+    },
+    {
+        "\"id\"": "72",
+        "pokemonname": "tentacool"
+    },
+    {
+        "\"id\"": "73",
+        "pokemonname": "tentacruel"
+    },
+    {
+        "\"id\"": "74",
+        "pokemonname": "geodude"
+    },
+    {
+        "\"id\"": "75",
+        "pokemonname": "graveler"
+    },
+    {
+        "\"id\"": "76",
+        "pokemonname": "golem"
+    },
+    {
+        "\"id\"": "77",
+        "pokemonname": "ponyta"
+    },
+    {
+        "\"id\"": "78",
+        "pokemonname": "rapidash"
+    },
+    {
+        "\"id\"": "79",
+        "pokemonname": "slowpoke"
+    },
+    {
+        "\"id\"": "80",
+        "pokemonname": "slowbro"
+    },
+    {
+        "\"id\"": "81",
+        "pokemonname": "magnemite"
+    },
+    {
+        "\"id\"": "82",
+        "pokemonname": "magneton"
+    },
+    {
+        "\"id\"": "83",
+        "pokemonname": "farfetch"
+    },
+    {
+        "\"id\"": "84",
+        "pokemonname": "doduo"
+    },
+    {
+        "\"id\"": "85",
+        "pokemonname": "dodrio"
+    },
+    {
+        "\"id\"": "86",
+        "pokemonname": "seel"
+    },
+    {
+        "\"id\"": "87",
+        "pokemonname": "dewgong"
+    },
+    {
+        "\"id\"": "88",
+        "pokemonname": "grimer"
+    },
+    {
+        "\"id\"": "89",
+        "pokemonname": "muk"
+    },
+    {
+        "\"id\"": "90",
+        "pokemonname": "shellder"
+    },
+    {
+        "\"id\"": "91",
+        "pokemonname": "cloyster"
+    },
+    {
+        "\"id\"": "92",
+        "pokemonname": "gastly"
+    },
+    {
+        "\"id\"": "93",
+        "pokemonname": "haunter"
+    },
+    {
+        "\"id\"": "94",
+        "pokemonname": "gengar"
+    },
+    {
+        "\"id\"": "95",
+        "pokemonname": "onix"
+    },
+    {
+        "\"id\"": "96",
+        "pokemonname": "drowzee"
+    },
+    {
+        "\"id\"": "97",
+        "pokemonname": "hypno"
+    },
+    {
+        "\"id\"": "98",
+        "pokemonname": "krabby"
+    },
+    {
+        "\"id\"": "99",
+        "pokemonname": "kingler"
+    },
+    {
+        "\"id\"": "100",
+        "pokemonname": "voltorb"
+    },
+    {
+        "\"id\"": "101",
+        "pokemonname": "electrode"
+    },
+    {
+        "\"id\"": "102",
+        "pokemonname": "exeggcute"
+    },
+    {
+        "\"id\"": "103",
+        "pokemonname": "exeggutor"
+    },
+    {
+        "\"id\"": "104",
+        "pokemonname": "cubone"
+    },
+    {
+        "\"id\"": "105",
+        "pokemonname": "marowak"
+    },
+    {
+        "\"id\"": "106",
+        "pokemonname": "hitmonlee"
+    },
+    {
+        "\"id\"": "107",
+        "pokemonname": "hitmonchan"
+    },
+    {
+        "\"id\"": "108",
+        "pokemonname": "lickitung"
+    },
+    {
+        "\"id\"": "109",
+        "pokemonname": "koffing"
+    },
+    {
+        "\"id\"": "110",
+        "pokemonname": "weezing"
+    },
+    {
+        "\"id\"": "111",
+        "pokemonname": "rhyhorn"
+    },
+    {
+        "\"id\"": "112",
+        "pokemonname": "rhydon"
+    },
+    {
+        "\"id\"": "113",
+        "pokemonname": "chansey"
+    },
+    {
+        "\"id\"": "114",
+        "pokemonname": "tangela"
+    },
+    {
+        "\"id\"": "115",
+        "pokemonname": "kangaskhan"
+    },
+    {
+        "\"id\"": "116",
+        "pokemonname": "horsea"
+    },
+    {
+        "\"id\"": "117",
+        "pokemonname": "seadra"
+    },
+    {
+        "\"id\"": "118",
+        "pokemonname": "goldeen"
+    },
+    {
+        "\"id\"": "119",
+        "pokemonname": "seaking"
+    },
+    {
+        "\"id\"": "120",
+        "pokemonname": "staryu"
+    },
+    {
+        "\"id\"": "121",
+        "pokemonname": "starmie"
+    },
+    {
+        "\"id\"": "122",
+        "pokemonname": "mr-mime"
+    },
+    {
+        "\"id\"": "123",
+        "pokemonname": "scyther"
+    },
+    {
+        "\"id\"": "124",
+        "pokemonname": "jynx"
+    },
+    {
+        "\"id\"": "125",
+        "pokemonname": "electabuzz"
+    },
+    {
+        "\"id\"": "126",
+        "pokemonname": "magmar"
+    },
+    {
+        "\"id\"": "127",
+        "pokemonname": "pinsir"
+    },
+    {
+        "\"id\"": "128",
+        "pokemonname": "tauros"
+    },
+    {
+        "\"id\"": "129",
+        "pokemonname": "magikarp"
+    },
+    {
+        "\"id\"": "130",
+        "pokemonname": "gyarados"
+    },
+    {
+        "\"id\"": "131",
+        "pokemonname": "lapras"
+    },
+    {
+        "\"id\"": "132",
+        "pokemonname": "ditto"
+    },
+    {
+        "\"id\"": "133",
+        "pokemonname": "eevee"
+    },
+    {
+        "\"id\"": "134",
+        "pokemonname": "vaporeon"
+    },
+    {
+        "\"id\"": "135",
+        "pokemonname": "jolteon"
+    },
+    {
+        "\"id\"": "136",
+        "pokemonname": "flareon"
+    },
+    {
+        "\"id\"": "137",
+        "pokemonname": "porygon"
+    },
+    {
+        "\"id\"": "138",
+        "pokemonname": "omanyte"
+    },
+    {
+        "\"id\"": "139",
+        "pokemonname": "omastar"
+    },
+    {
+        "\"id\"": "140",
+        "pokemonname": "kabuto"
+    },
+    {
+        "\"id\"": "141",
+        "pokemonname": "kabutops"
+    },
+    {
+        "\"id\"": "142",
+        "pokemonname": "aerodactyl"
+    },
+    {
+        "\"id\"": "143",
+        "pokemonname": "snorlax"
+    },
+    {
+        "\"id\"": "144",
+        "pokemonname": "articuno"
+    },
+    {
+        "\"id\"": "145",
+        "pokemonname": "zapdos"
+    },
+    {
+        "\"id\"": "146",
+        "pokemonname": "moltres"
+    },
+    {
+        "\"id\"": "147",
+        "pokemonname": "dratini"
+    },
+    {
+        "\"id\"": "148",
+        "pokemonname": "dragonair"
+    },
+    {
+        "\"id\"": "149",
+        "pokemonname": "dragonite"
+    },
+    {
+        "\"id\"": "150",
+        "pokemonname": "mewtwo"
+    },
+    {
+        "\"id\"": "151",
+        "pokemonname": "mew"
+    },
+    {
+        "\"id\"": "152",
+        "pokemonname": "chikorita"
+    },
+    {
+        "\"id\"": "153",
+        "pokemonname": "bayleef"
+    },
+    {
+        "\"id\"": "154",
+        "pokemonname": "meganium"
+    },
+    {
+        "\"id\"": "155",
+        "pokemonname": "cyndaquil"
+    },
+    {
+        "\"id\"": "156",
+        "pokemonname": "quilava"
+    },
+    {
+        "\"id\"": "157",
+        "pokemonname": "typhlosion"
+    },
+    {
+        "\"id\"": "158",
+        "pokemonname": "totodile"
+    },
+    {
+        "\"id\"": "159",
+        "pokemonname": "croconaw"
+    },
+    {
+        "\"id\"": "160",
+        "pokemonname": "feraligatr"
+    },
+    {
+        "\"id\"": "161",
+        "pokemonname": "sentret"
+    },
+    {
+        "\"id\"": "162",
+        "pokemonname": "furret"
+    },
+    {
+        "\"id\"": "163",
+        "pokemonname": "hoothoot"
+    },
+    {
+        "\"id\"": "164",
+        "pokemonname": "noctowl"
+    },
+    {
+        "\"id\"": "165",
+        "pokemonname": "ledyba"
+    },
+    {
+        "\"id\"": "166",
+        "pokemonname": "ledian"
+    },
+    {
+        "\"id\"": "167",
+        "pokemonname": "spinarak"
+    },
+    {
+        "\"id\"": "168",
+        "pokemonname": "ariados"
+    },
+    {
+        "\"id\"": "169",
+        "pokemonname": "crobat"
+    },
+    {
+        "\"id\"": "170",
+        "pokemonname": "chinchou"
+    },
+    {
+        "\"id\"": "171",
+        "pokemonname": "lanturn"
+    },
+    {
+        "\"id\"": "172",
+        "pokemonname": "pichu"
+    },
+    {
+        "\"id\"": "173",
+        "pokemonname": "cleffa"
+    },
+    {
+        "\"id\"": "174",
+        "pokemonname": "igglybuff"
+    },
+    {
+        "\"id\"": "175",
+        "pokemonname": "togepi"
+    },
+    {
+        "\"id\"": "176",
+        "pokemonname": "togetic"
+    },
+    {
+        "\"id\"": "177",
+        "pokemonname": "natu"
+    },
+    {
+        "\"id\"": "178",
+        "pokemonname": "xatu"
+    },
+    {
+        "\"id\"": "179",
+        "pokemonname": "mareep"
+    },
+    {
+        "\"id\"": "180",
+        "pokemonname": "flaaffy"
+    },
+    {
+        "\"id\"": "181",
+        "pokemonname": "ampharos"
+    },
+    {
+        "\"id\"": "182",
+        "pokemonname": "bellossom"
+    },
+    {
+        "\"id\"": "183",
+        "pokemonname": "marill"
+    },
+    {
+        "\"id\"": "184",
+        "pokemonname": "azumarill"
+    },
+    {
+        "\"id\"": "185",
+        "pokemonname": "sudowoodo"
+    },
+    {
+        "\"id\"": "186",
+        "pokemonname": "politoed"
+    },
+    {
+        "\"id\"": "187",
+        "pokemonname": "hoppip"
+    },
+    {
+        "\"id\"": "188",
+        "pokemonname": "skiploom"
+    },
+    {
+        "\"id\"": "189",
+        "pokemonname": "jumpluff"
+    },
+    {
+        "\"id\"": "190",
+        "pokemonname": "aipom"
+    },
+    {
+        "\"id\"": "191",
+        "pokemonname": "sunkern"
+    },
+    {
+        "\"id\"": "192",
+        "pokemonname": "sunflora"
+    },
+    {
+        "\"id\"": "193",
+        "pokemonname": "yanma"
+    },
+    {
+        "\"id\"": "194",
+        "pokemonname": "wooper"
+    },
+    {
+        "\"id\"": "195",
+        "pokemonname": "quagsire"
+    },
+    {
+        "\"id\"": "196",
+        "pokemonname": "espeon"
+    },
+    {
+        "\"id\"": "197",
+        "pokemonname": "umbreon"
+    },
+    {
+        "\"id\"": "198",
+        "pokemonname": "murkrow"
+    },
+    {
+        "\"id\"": "199",
+        "pokemonname": "slowking"
+    },
+    {
+        "\"id\"": "200",
+        "pokemonname": "misdreavus"
+    },
+    {
+        "\"id\"": "201",
+        "pokemonname": "unown"
+    },
+    {
+        "\"id\"": "202",
+        "pokemonname": "wobbuffet"
+    },
+    {
+        "\"id\"": "203",
+        "pokemonname": "girafarig"
+    },
+    {
+        "\"id\"": "204",
+        "pokemonname": "pineco"
+    },
+    {
+        "\"id\"": "205",
+        "pokemonname": "forretress"
+    },
+    {
+        "\"id\"": "206",
+        "pokemonname": "dunsparce"
+    },
+    {
+        "\"id\"": "207",
+        "pokemonname": "gligar"
+    },
+    {
+        "\"id\"": "208",
+        "pokemonname": "steelix"
+    },
+    {
+        "\"id\"": "209",
+        "pokemonname": "snubbull"
+    },
+    {
+        "\"id\"": "210",
+        "pokemonname": "granbull"
+    },
+    {
+        "\"id\"": "211",
+        "pokemonname": "qwilfish"
+    },
+    {
+        "\"id\"": "212",
+        "pokemonname": "scizor"
+    },
+    {
+        "\"id\"": "213",
+        "pokemonname": "shuckle"
+    },
+    {
+        "\"id\"": "214",
+        "pokemonname": "heracross"
+    },
+    {
+        "\"id\"": "215",
+        "pokemonname": "sneasel"
+    },
+    {
+        "\"id\"": "216",
+        "pokemonname": "teddiursa"
+    },
+    {
+        "\"id\"": "217",
+        "pokemonname": "ursaring"
+    },
+    {
+        "\"id\"": "218",
+        "pokemonname": "slugma"
+    },
+    {
+        "\"id\"": "219",
+        "pokemonname": "magcargo"
+    },
+    {
+        "\"id\"": "220",
+        "pokemonname": "swinub"
+    },
+    {
+        "\"id\"": "221",
+        "pokemonname": "piloswine"
+    },
+    {
+        "\"id\"": "222",
+        "pokemonname": "corsola"
+    },
+    {
+        "\"id\"": "223",
+        "pokemonname": "remoraid"
+    },
+    {
+        "\"id\"": "224",
+        "pokemonname": "octillery"
+    },
+    {
+        "\"id\"": "225",
+        "pokemonname": "delibird"
+    },
+    {
+        "\"id\"": "226",
+        "pokemonname": "mantine"
+    },
+    {
+        "\"id\"": "227",
+        "pokemonname": "skarmory"
+    },
+    {
+        "\"id\"": "228",
+        "pokemonname": "houndour"
+    },
+    {
+        "\"id\"": "229",
+        "pokemonname": "houndoom"
+    },
+    {
+        "\"id\"": "230",
+        "pokemonname": "kingdra"
+    },
+    {
+        "\"id\"": "231",
+        "pokemonname": "phanpy"
+    },
+    {
+        "\"id\"": "232",
+        "pokemonname": "donphan"
+    },
+    {
+        "\"id\"": "233",
+        "pokemonname": "porygon2"
+    },
+    {
+        "\"id\"": "234",
+        "pokemonname": "stantler"
+    },
+    {
+        "\"id\"": "235",
+        "pokemonname": "smeargle"
+    },
+    {
+        "\"id\"": "236",
+        "pokemonname": "tyrogue"
+    },
+    {
+        "\"id\"": "237",
+        "pokemonname": "hitmontop"
+    },
+    {
+        "\"id\"": "238",
+        "pokemonname": "smoochum"
+    },
+    {
+        "\"id\"": "239",
+        "pokemonname": "elekid"
+    },
+    {
+        "\"id\"": "240",
+        "pokemonname": "magby"
+    },
+    {
+        "\"id\"": "241",
+        "pokemonname": "miltank"
+    },
+    {
+        "\"id\"": "242",
+        "pokemonname": "blissey"
+    },
+    {
+        "\"id\"": "243",
+        "pokemonname": "raikou"
+    },
+    {
+        "\"id\"": "244",
+        "pokemonname": "entei"
+    },
+    {
+        "\"id\"": "245",
+        "pokemonname": "suicune"
+    },
+    {
+        "\"id\"": "246",
+        "pokemonname": "larvitar"
+    },
+    {
+        "\"id\"": "247",
+        "pokemonname": "pupitar"
+    },
+    {
+        "\"id\"": "248",
+        "pokemonname": "tyranitar"
+    },
+    {
+        "\"id\"": "249",
+        "pokemonname": "lugia"
+    },
+    {
+        "\"id\"": "250",
+        "pokemonname": "ho-oh"
+    },
+    {
+        "\"id\"": "251",
+        "pokemonname": "celebi"
+    },
+    {
+        "\"id\"": "252",
+        "pokemonname": "treecko"
+    },
+    {
+        "\"id\"": "253",
+        "pokemonname": "grovyle"
+    },
+    {
+        "\"id\"": "254",
+        "pokemonname": "sceptile"
+    },
+    {
+        "\"id\"": "255",
+        "pokemonname": "torchic"
+    },
+    {
+        "\"id\"": "256",
+        "pokemonname": "combusken"
+    },
+    {
+        "\"id\"": "257",
+        "pokemonname": "blaziken"
+    },
+    {
+        "\"id\"": "258",
+        "pokemonname": "mudkip"
+    },
+    {
+        "\"id\"": "259",
+        "pokemonname": "marshtomp"
+    },
+    {
+        "\"id\"": "260",
+        "pokemonname": "swampert"
+    },
+    {
+        "\"id\"": "261",
+        "pokemonname": "poochyena"
+    },
+    {
+        "\"id\"": "262",
+        "pokemonname": "mightyena"
+    },
+    {
+        "\"id\"": "263",
+        "pokemonname": "zigzagoon"
+    },
+    {
+        "\"id\"": "264",
+        "pokemonname": "linoone"
+    },
+    {
+        "\"id\"": "265",
+        "pokemonname": "wurmple"
+    },
+    {
+        "\"id\"": "266",
+        "pokemonname": "silcoon"
+    },
+    {
+        "\"id\"": "267",
+        "pokemonname": "beautifly"
+    },
+    {
+        "\"id\"": "268",
+        "pokemonname": "cascoon"
+    },
+    {
+        "\"id\"": "269",
+        "pokemonname": "dustox"
+    },
+    {
+        "\"id\"": "270",
+        "pokemonname": "lotad"
+    },
+    {
+        "\"id\"": "271",
+        "pokemonname": "lombre"
+    },
+    {
+        "\"id\"": "272",
+        "pokemonname": "ludicolo"
+    },
+    {
+        "\"id\"": "273",
+        "pokemonname": "seedot"
+    },
+    {
+        "\"id\"": "274",
+        "pokemonname": "nuzleaf"
+    },
+    {
+        "\"id\"": "275",
+        "pokemonname": "shiftry"
+    },
+    {
+        "\"id\"": "276",
+        "pokemonname": "taillow"
+    },
+    {
+        "\"id\"": "277",
+        "pokemonname": "swellow"
+    },
+    {
+        "\"id\"": "278",
+        "pokemonname": "wingull"
+    },
+    {
+        "\"id\"": "279",
+        "pokemonname": "pelipper"
+    },
+    {
+        "\"id\"": "280",
+        "pokemonname": "ralts"
+    },
+    {
+        "\"id\"": "281",
+        "pokemonname": "kirlia"
+    },
+    {
+        "\"id\"": "282",
+        "pokemonname": "gardevoir"
+    },
+    {
+        "\"id\"": "283",
+        "pokemonname": "surskit"
+    },
+    {
+        "\"id\"": "284",
+        "pokemonname": "masquerain"
+    },
+    {
+        "\"id\"": "285",
+        "pokemonname": "shroomish"
+    },
+    {
+        "\"id\"": "286",
+        "pokemonname": "breloom"
+    },
+    {
+        "\"id\"": "287",
+        "pokemonname": "slakoth"
+    },
+    {
+        "\"id\"": "288",
+        "pokemonname": "vigoroth"
+    },
+    {
+        "\"id\"": "289",
+        "pokemonname": "slaking"
+    },
+    {
+        "\"id\"": "290",
+        "pokemonname": "nincada"
+    },
+    {
+        "\"id\"": "291",
+        "pokemonname": "ninjask"
+    },
+    {
+        "\"id\"": "292",
+        "pokemonname": "shedinja"
+    },
+    {
+        "\"id\"": "293",
+        "pokemonname": "whismur"
+    },
+    {
+        "\"id\"": "294",
+        "pokemonname": "loudred"
+    },
+    {
+        "\"id\"": "295",
+        "pokemonname": "exploud"
+    },
+    {
+        "\"id\"": "296",
+        "pokemonname": "makuhita"
+    },
+    {
+        "\"id\"": "297",
+        "pokemonname": "hariyama"
+    },
+    {
+        "\"id\"": "298",
+        "pokemonname": "azurill"
+    },
+    {
+        "\"id\"": "299",
+        "pokemonname": "nosepass"
+    },
+    {
+        "\"id\"": "300",
+        "pokemonname": "skitty"
+    },
+    {
+        "\"id\"": "301",
+        "pokemonname": "delcatty"
+    },
+    {
+        "\"id\"": "302",
+        "pokemonname": "sableye"
+    },
+    {
+        "\"id\"": "303",
+        "pokemonname": "mawile"
+    },
+    {
+        "\"id\"": "304",
+        "pokemonname": "aron"
+    },
+    {
+        "\"id\"": "305",
+        "pokemonname": "lairon"
+    },
+    {
+        "\"id\"": "306",
+        "pokemonname": "aggron"
+    },
+    {
+        "\"id\"": "307",
+        "pokemonname": "meditite"
+    },
+    {
+        "\"id\"": "308",
+        "pokemonname": "medicham"
+    },
+    {
+        "\"id\"": "309",
+        "pokemonname": "electrike"
+    },
+    {
+        "\"id\"": "310",
+        "pokemonname": "manectric"
+    },
+    {
+        "\"id\"": "311",
+        "pokemonname": "plusle"
+    },
+    {
+        "\"id\"": "312",
+        "pokemonname": "minun"
+    },
+    {
+        "\"id\"": "313",
+        "pokemonname": "volbeat"
+    },
+    {
+        "\"id\"": "314",
+        "pokemonname": "illumise"
+    },
+    {
+        "\"id\"": "315",
+        "pokemonname": "roselia"
+    },
+    {
+        "\"id\"": "316",
+        "pokemonname": "gulpin"
+    },
+    {
+        "\"id\"": "317",
+        "pokemonname": "swalot"
+    },
+    {
+        "\"id\"": "318",
+        "pokemonname": "carvanha"
+    },
+    {
+        "\"id\"": "319",
+        "pokemonname": "sharpedo"
+    },
+    {
+        "\"id\"": "320",
+        "pokemonname": "wailmer"
+    },
+    {
+        "\"id\"": "321",
+        "pokemonname": "wailord"
+    },
+    {
+        "\"id\"": "322",
+        "pokemonname": "numel"
+    },
+    {
+        "\"id\"": "323",
+        "pokemonname": "camerupt"
+    },
+    {
+        "\"id\"": "324",
+        "pokemonname": "torkoal"
+    },
+    {
+        "\"id\"": "325",
+        "pokemonname": "spoink"
+    },
+    {
+        "\"id\"": "326",
+        "pokemonname": "grumpig"
+    },
+    {
+        "\"id\"": "327",
+        "pokemonname": "spinda"
+    },
+    {
+        "\"id\"": "328",
+        "pokemonname": "trapinch"
+    },
+    {
+        "\"id\"": "329",
+        "pokemonname": "vibrava"
+    },
+    {
+        "\"id\"": "330",
+        "pokemonname": "flygon"
+    },
+    {
+        "\"id\"": "331",
+        "pokemonname": "cacnea"
+    },
+    {
+        "\"id\"": "332",
+        "pokemonname": "cacturne"
+    },
+    {
+        "\"id\"": "333",
+        "pokemonname": "swablu"
+    },
+    {
+        "\"id\"": "334",
+        "pokemonname": "altaria"
+    },
+    {
+        "\"id\"": "335",
+        "pokemonname": "zangoose"
+    },
+    {
+        "\"id\"": "336",
+        "pokemonname": "seviper"
+    },
+    {
+        "\"id\"": "337",
+        "pokemonname": "lunatone"
+    },
+    {
+        "\"id\"": "338",
+        "pokemonname": "solrock"
+    },
+    {
+        "\"id\"": "339",
+        "pokemonname": "barboach"
+    },
+    {
+        "\"id\"": "340",
+        "pokemonname": "whiscash"
+    },
+    {
+        "\"id\"": "341",
+        "pokemonname": "corphish"
+    },
+    {
+        "\"id\"": "342",
+        "pokemonname": "crawdaunt"
+    },
+    {
+        "\"id\"": "343",
+        "pokemonname": "baltoy"
+    },
+    {
+        "\"id\"": "344",
+        "pokemonname": "claydol"
+    },
+    {
+        "\"id\"": "345",
+        "pokemonname": "lileep"
+    },
+    {
+        "\"id\"": "346",
+        "pokemonname": "cradily"
+    },
+    {
+        "\"id\"": "347",
+        "pokemonname": "anorith"
+    },
+    {
+        "\"id\"": "348",
+        "pokemonname": "armaldo"
+    },
+    {
+        "\"id\"": "349",
+        "pokemonname": "feebas"
+    },
+    {
+        "\"id\"": "350",
+        "pokemonname": "milotic"
+    },
+    {
+        "\"id\"": "351",
+        "pokemonname": "castform"
+    },
+    {
+        "\"id\"": "352",
+        "pokemonname": "kecleon"
+    },
+    {
+        "\"id\"": "353",
+        "pokemonname": "shuppet"
+    },
+    {
+        "\"id\"": "354",
+        "pokemonname": "banette"
+    },
+    {
+        "\"id\"": "355",
+        "pokemonname": "duskull"
+    },
+    {
+        "\"id\"": "356",
+        "pokemonname": "dusclops"
+    },
+    {
+        "\"id\"": "357",
+        "pokemonname": "tropius"
+    },
+    {
+        "\"id\"": "358",
+        "pokemonname": "chimecho"
+    },
+    {
+        "\"id\"": "359",
+        "pokemonname": "absol"
+    },
+    {
+        "\"id\"": "360",
+        "pokemonname": "wynaut"
+    },
+    {
+        "\"id\"": "361",
+        "pokemonname": "snorunt"
+    },
+    {
+        "\"id\"": "362",
+        "pokemonname": "glalie"
+    },
+    {
+        "\"id\"": "363",
+        "pokemonname": "spheal"
+    },
+    {
+        "\"id\"": "364",
+        "pokemonname": "sealeo"
+    },
+    {
+        "\"id\"": "365",
+        "pokemonname": "walrein"
+    },
+    {
+        "\"id\"": "366",
+        "pokemonname": "clamperl"
+    },
+    {
+        "\"id\"": "367",
+        "pokemonname": "huntail"
+    },
+    {
+        "\"id\"": "368",
+        "pokemonname": "gorebyss"
+    },
+    {
+        "\"id\"": "369",
+        "pokemonname": "relicanth"
+    },
+    {
+        "\"id\"": "370",
+        "pokemonname": "luvdisc"
+    },
+    {
+        "\"id\"": "371",
+        "pokemonname": "bagon"
+    },
+    {
+        "\"id\"": "372",
+        "pokemonname": "shelgon"
+    },
+    {
+        "\"id\"": "373",
+        "pokemonname": "salamence"
+    },
+    {
+        "\"id\"": "374",
+        "pokemonname": "beldum"
+    },
+    {
+        "\"id\"": "375",
+        "pokemonname": "metang"
+    },
+    {
+        "\"id\"": "376",
+        "pokemonname": "metagross"
+    },
+    {
+        "\"id\"": "377",
+        "pokemonname": "regirock"
+    },
+    {
+        "\"id\"": "378",
+        "pokemonname": "regice"
+    },
+    {
+        "\"id\"": "379",
+        "pokemonname": "registeel"
+    },
+    {
+        "\"id\"": "380",
+        "pokemonname": "latias"
+    },
+    {
+        "\"id\"": "381",
+        "pokemonname": "latios"
+    },
+    {
+        "\"id\"": "382",
+        "pokemonname": "kyogre"
+    },
+    {
+        "\"id\"": "383",
+        "pokemonname": "groudon"
+    },
+    {
+        "\"id\"": "384",
+        "pokemonname": "rayquaza"
+    },
+    {
+        "\"id\"": "385",
+        "pokemonname": "jirachi"
+    },
+    {
+        "\"id\"": "386",
+        "pokemonname": "deoxys-normal"
+    },
+    {
+        "\"id\"": "387",
+        "pokemonname": "turtwig"
+    },
+    {
+        "\"id\"": "388",
+        "pokemonname": "grotle"
+    },
+    {
+        "\"id\"": "389",
+        "pokemonname": "torterra"
+    },
+    {
+        "\"id\"": "390",
+        "pokemonname": "chimchar"
+    },
+    {
+        "\"id\"": "391",
+        "pokemonname": "monferno"
+    },
+    {
+        "\"id\"": "392",
+        "pokemonname": "infernape"
+    },
+    {
+        "\"id\"": "393",
+        "pokemonname": "piplup"
+    },
+    {
+        "\"id\"": "394",
+        "pokemonname": "prinplup"
+    },
+    {
+        "\"id\"": "395",
+        "pokemonname": "empoleon"
+    },
+    {
+        "\"id\"": "396",
+        "pokemonname": "starly"
+    },
+    {
+        "\"id\"": "397",
+        "pokemonname": "staravia"
+    },
+    {
+        "\"id\"": "398",
+        "pokemonname": "staraptor"
+    },
+    {
+        "\"id\"": "399",
+        "pokemonname": "bidoof"
+    },
+    {
+        "\"id\"": "400",
+        "pokemonname": "bibarel"
+    },
+    {
+        "\"id\"": "401",
+        "pokemonname": "kricketot"
+    },
+    {
+        "\"id\"": "402",
+        "pokemonname": "kricketune"
+    },
+    {
+        "\"id\"": "403",
+        "pokemonname": "shinx"
+    },
+    {
+        "\"id\"": "404",
+        "pokemonname": "luxio"
+    },
+    {
+        "\"id\"": "405",
+        "pokemonname": "luxray"
+    },
+    {
+        "\"id\"": "406",
+        "pokemonname": "budew"
+    },
+    {
+        "\"id\"": "407",
+        "pokemonname": "roserade"
+    },
+    {
+        "\"id\"": "408",
+        "pokemonname": "cranidos"
+    },
+    {
+        "\"id\"": "409",
+        "pokemonname": "rampardos"
+    },
+    {
+        "\"id\"": "410",
+        "pokemonname": "shieldon"
+    },
+    {
+        "\"id\"": "411",
+        "pokemonname": "bastiodon"
+    },
+    {
+        "\"id\"": "412",
+        "pokemonname": "burmy"
+    },
+    {
+        "\"id\"": "413",
+        "pokemonname": "wormadam-plant"
+    },
+    {
+        "\"id\"": "414",
+        "pokemonname": "mothim"
+    },
+    {
+        "\"id\"": "415",
+        "pokemonname": "combee"
+    },
+    {
+        "\"id\"": "416",
+        "pokemonname": "vespiquen"
+    },
+    {
+        "\"id\"": "417",
+        "pokemonname": "pachirisu"
+    },
+    {
+        "\"id\"": "418",
+        "pokemonname": "buizel"
+    },
+    {
+        "\"id\"": "419",
+        "pokemonname": "floatzel"
+    },
+    {
+        "\"id\"": "420",
+        "pokemonname": "cherubi"
+    },
+    {
+        "\"id\"": "421",
+        "pokemonname": "cherrim"
+    },
+    {
+        "\"id\"": "422",
+        "pokemonname": "shellos"
+    },
+    {
+        "\"id\"": "423",
+        "pokemonname": "gastrodon"
+    },
+    {
+        "\"id\"": "424",
+        "pokemonname": "ambipom"
+    },
+    {
+        "\"id\"": "425",
+        "pokemonname": "drifloon"
+    },
+    {
+        "\"id\"": "426",
+        "pokemonname": "drifblim"
+    },
+    {
+        "\"id\"": "427",
+        "pokemonname": "buneary"
+    },
+    {
+        "\"id\"": "428",
+        "pokemonname": "lopunny"
+    },
+    {
+        "\"id\"": "429",
+        "pokemonname": "mismagius"
+    },
+    {
+        "\"id\"": "430",
+        "pokemonname": "honchkrow"
+    },
+    {
+        "\"id\"": "431",
+        "pokemonname": "glameow"
+    },
+    {
+        "\"id\"": "432",
+        "pokemonname": "purugly"
+    },
+    {
+        "\"id\"": "433",
+        "pokemonname": "chingling"
+    },
+    {
+        "\"id\"": "434",
+        "pokemonname": "stunky"
+    },
+    {
+        "\"id\"": "435",
+        "pokemonname": "skuntank"
+    },
+    {
+        "\"id\"": "436",
+        "pokemonname": "bronzor"
+    },
+    {
+        "\"id\"": "437",
+        "pokemonname": "bronzong"
+    },
+    {
+        "\"id\"": "438",
+        "pokemonname": "bonsly"
+    },
+    {
+        "\"id\"": "439",
+        "pokemonname": "mime-jr"
+    },
+    {
+        "\"id\"": "440",
+        "pokemonname": "happiny"
+    },
+    {
+        "\"id\"": "441",
+        "pokemonname": "chatot"
+    },
+    {
+        "\"id\"": "442",
+        "pokemonname": "spiritomb"
+    },
+    {
+        "\"id\"": "443",
+        "pokemonname": "gible"
+    },
+    {
+        "\"id\"": "444",
+        "pokemonname": "gabite"
+    },
+    {
+        "\"id\"": "445",
+        "pokemonname": "garchomp"
+    },
+    {
+        "\"id\"": "446",
+        "pokemonname": "munchlax"
+    },
+    {
+        "\"id\"": "447",
+        "pokemonname": "riolu"
+    },
+    {
+        "\"id\"": "448",
+        "pokemonname": "lucario"
+    },
+    {
+        "\"id\"": "449",
+        "pokemonname": "hippopotas"
+    },
+    {
+        "\"id\"": "450",
+        "pokemonname": "hippowdon"
+    },
+    {
+        "\"id\"": "451",
+        "pokemonname": "skorupi"
+    },
+    {
+        "\"id\"": "452",
+        "pokemonname": "drapion"
+    },
+    {
+        "\"id\"": "453",
+        "pokemonname": "croagunk"
+    },
+    {
+        "\"id\"": "454",
+        "pokemonname": "toxicroak"
+    },
+    {
+        "\"id\"": "455",
+        "pokemonname": "carnivine"
+    },
+    {
+        "\"id\"": "456",
+        "pokemonname": "finneon"
+    },
+    {
+        "\"id\"": "457",
+        "pokemonname": "lumineon"
+    },
+    {
+        "\"id\"": "458",
+        "pokemonname": "mantyke"
+    },
+    {
+        "\"id\"": "459",
+        "pokemonname": "snover"
+    },
+    {
+        "\"id\"": "460",
+        "pokemonname": "abomasnow"
+    },
+    {
+        "\"id\"": "461",
+        "pokemonname": "weavile"
+    },
+    {
+        "\"id\"": "462",
+        "pokemonname": "magnezone"
+    },
+    {
+        "\"id\"": "463",
+        "pokemonname": "lickilicky"
+    },
+    {
+        "\"id\"": "464",
+        "pokemonname": "rhyperior"
+    },
+    {
+        "\"id\"": "465",
+        "pokemonname": "tangrowth"
+    },
+    {
+        "\"id\"": "466",
+        "pokemonname": "electivire"
+    },
+    {
+        "\"id\"": "467",
+        "pokemonname": "magmortar"
+    },
+    {
+        "\"id\"": "468",
+        "pokemonname": "togekiss"
+    },
+    {
+        "\"id\"": "469",
+        "pokemonname": "yanmega"
+    },
+    {
+        "\"id\"": "470",
+        "pokemonname": "leafeon"
+    },
+    {
+        "\"id\"": "471",
+        "pokemonname": "glaceon"
+    },
+    {
+        "\"id\"": "472",
+        "pokemonname": "gliscor"
+    },
+    {
+        "\"id\"": "473",
+        "pokemonname": "mamoswine"
+    },
+    {
+        "\"id\"": "474",
+        "pokemonname": "porygon-z"
+    },
+    {
+        "\"id\"": "475",
+        "pokemonname": "gallade"
+    },
+    {
+        "\"id\"": "476",
+        "pokemonname": "probopass"
+    },
+    {
+        "\"id\"": "477",
+        "pokemonname": "dusknoir"
+    },
+    {
+        "\"id\"": "478",
+        "pokemonname": "froslass"
+    },
+    {
+        "\"id\"": "479",
+        "pokemonname": "rotom"
+    },
+    {
+        "\"id\"": "480",
+        "pokemonname": "uxie"
+    },
+    {
+        "\"id\"": "481",
+        "pokemonname": "mesprit"
+    },
+    {
+        "\"id\"": "482",
+        "pokemonname": "azelf"
+    },
+    {
+        "\"id\"": "483",
+        "pokemonname": "dialga"
+    },
+    {
+        "\"id\"": "484",
+        "pokemonname": "palkia"
+    },
+    {
+        "\"id\"": "485",
+        "pokemonname": "heatran"
+    },
+    {
+        "\"id\"": "486",
+        "pokemonname": "regigigas"
+    },
+    {
+        "\"id\"": "487",
+        "pokemonname": "giratina"
+    },
+
+    {
+        "\"id\"": "488",
+        "pokemonname": "cresselia"
+    },
+    {
+        "\"id\"": "489",
+        "pokemonname": "phione"
+    },
+    {
+        "\"id\"": "490",
+        "pokemonname": "manaphy"
+    },
+    {
+        "\"id\"": "491",
+        "pokemonname": "darkrai"
+    },
+    {
+        "\"id\"": "492",
+        "pokemonname": "shaymin"
+    },
+    {
+        "\"id\"": "493",
+        "pokemonname": "arceus"
+    },
+    {
+        "\"id\"": "494",
+        "pokemonname": "victini"
+    },
+    {
+        "\"id\"": "495",
+        "pokemonname": "snivy"
+    },
+    {
+        "\"id\"": "496",
+        "pokemonname": "servine"
+    },
+    {
+        "\"id\"": "497",
+        "pokemonname": "serperior"
+    },
+    {
+        "\"id\"": "498",
+        "pokemonname": "tepig"
+    },
+    {
+        "\"id\"": "499",
+        "pokemonname": "pignite"
+    },
+    {
+        "\"id\"": "500",
+        "pokemonname": "emboar"
+    },
+    {
+        "\"id\"": "501",
+        "pokemonname": "oshawott"
+    },
+    {
+        "\"id\"": "502",
+        "pokemonname": "dewott"
+    },
+    {
+        "\"id\"": "503",
+        "pokemonname": "samurott"
+    },
+    {
+        "\"id\"": "504",
+        "pokemonname": "patrat"
+    },
+    {
+        "\"id\"": "505",
+        "pokemonname": "watchog"
+    },
+    {
+        "\"id\"": "506",
+        "pokemonname": "lillipup"
+    },
+    {
+        "\"id\"": "507",
+        "pokemonname": "herdier"
+    },
+    {
+        "\"id\"": "508",
+        "pokemonname": "stoutland"
+    },
+    {
+        "\"id\"": "509",
+        "pokemonname": "purrloin"
+    },
+    {
+        "\"id\"": "510",
+        "pokemonname": "liepard"
+    },
+    {
+        "\"id\"": "511",
+        "pokemonname": "pansage"
+    },
+    {
+        "\"id\"": "512",
+        "pokemonname": "simisage"
+    },
+    {
+        "\"id\"": "513",
+        "pokemonname": "pansear"
+    },
+    {
+        "\"id\"": "514",
+        "pokemonname": "simisear"
+    },
+    {
+        "\"id\"": "515",
+        "pokemonname": "panpour"
+    },
+    {
+        "\"id\"": "516",
+        "pokemonname": "simipour"
+    },
+    {
+        "\"id\"": "517",
+        "pokemonname": "munna"
+    },
+    {
+        "\"id\"": "518",
+        "pokemonname": "musharna"
+    },
+    {
+        "\"id\"": "519",
+        "pokemonname": "pidove"
+    },
+    {
+        "\"id\"": "520",
+        "pokemonname": "tranquill"
+    },
+    {
+        "\"id\"": "521",
+        "pokemonname": "unfezant"
+    },
+    {
+        "\"id\"": "522",
+        "pokemonname": "blitzle"
+    },
+    {
+        "\"id\"": "523",
+        "pokemonname": "zebstrika"
+    },
+    {
+        "\"id\"": "524",
+        "pokemonname": "roggenrola"
+    },
+    {
+        "\"id\"": "525",
+        "pokemonname": "boldore"
+    },
+    {
+        "\"id\"": "526",
+        "pokemonname": "gigalith"
+    },
+    {
+        "\"id\"": "527",
+        "pokemonname": "woobat"
+    },
+    {
+        "\"id\"": "528",
+        "pokemonname": "swoobat"
+    },
+    {
+        "\"id\"": "529",
+        "pokemonname": "drilbur"
+    },
+    {
+        "\"id\"": "530",
+        "pokemonname": "excadrill"
+    },
+    {
+        "\"id\"": "531",
+        "pokemonname": "audino"
+    },
+    {
+        "\"id\"": "532",
+        "pokemonname": "timburr"
+    },
+    {
+        "\"id\"": "533",
+        "pokemonname": "gurdurr"
+    },
+    {
+        "\"id\"": "534",
+        "pokemonname": "conkeldurr"
+    },
+    {
+        "\"id\"": "535",
+        "pokemonname": "tympole"
+    },
+    {
+        "\"id\"": "536",
+        "pokemonname": "palpitoad"
+    },
+    {
+        "\"id\"": "537",
+        "pokemonname": "seismitoad"
+    },
+    {
+        "\"id\"": "538",
+        "pokemonname": "throh"
+    },
+    {
+        "\"id\"": "539",
+        "pokemonname": "sawk"
+    },
+    {
+        "\"id\"": "540",
+        "pokemonname": "sewaddle"
+    },
+    {
+        "\"id\"": "541",
+        "pokemonname": "swadloon"
+    },
+    {
+        "\"id\"": "542",
+        "pokemonname": "leavanny"
+    },
+    {
+        "\"id\"": "543",
+        "pokemonname": "venipede"
+    },
+    {
+        "\"id\"": "544",
+        "pokemonname": "whirlipede"
+    },
+    {
+        "\"id\"": "545",
+        "pokemonname": "scolipede"
+    },
+    {
+        "\"id\"": "546",
+        "pokemonname": "cottonee"
+    },
+    {
+        "\"id\"": "547",
+        "pokemonname": "whimsicott"
+    },
+    {
+        "\"id\"": "548",
+        "pokemonname": "petilil"
+    },
+    {
+        "\"id\"": "549",
+        "pokemonname": "lilligant"
+    },
+    {
+        "\"id\"": "550",
+        "pokemonname": "basculin"
+    },
+    {
+        "\"id\"": "551",
+        "pokemonname": "sandile"
+    },
+    {
+        "\"id\"": "552",
+        "pokemonname": "krokorok"
+    },
+    {
+        "\"id\"": "553",
+        "pokemonname": "krookodile"
+    },
+    {
+        "\"id\"": "554",
+        "pokemonname": "darumaka"
+    },
+    {
+        "\"id\"": "555",
+        "pokemonname": "darmanitan"
+    },
+    {
+        "\"id\"": "556",
+        "pokemonname": "maractus"
+    },
+    {
+        "\"id\"": "557",
+        "pokemonname": "dwebble"
+    },
+    {
+        "\"id\"": "558",
+        "pokemonname": "crustle"
+    },
+    {
+        "\"id\"": "559",
+        "pokemonname": "scraggy"
+    },
+    {
+        "\"id\"": "560",
+        "pokemonname": "scrafty"
+    },
+    {
+        "\"id\"": "561",
+        "pokemonname": "sigilyph"
+    },
+    {
+        "\"id\"": "562",
+        "pokemonname": "yamask"
+    },
+    {
+        "\"id\"": "563",
+        "pokemonname": "cofagrigus"
+    },
+    {
+        "\"id\"": "564",
+        "pokemonname": "tirtouga"
+    },
+    {
+        "\"id\"": "565",
+        "pokemonname": "carracosta"
+    },
+    {
+        "\"id\"": "566",
+        "pokemonname": "archen"
+    },
+    {
+        "\"id\"": "567",
+        "pokemonname": "archeops"
+    },
+    {
+        "\"id\"": "568",
+        "pokemonname": "trubbish"
+    },
+    {
+        "\"id\"": "569",
+        "pokemonname": "garbodor"
+    },
+    {
+        "\"id\"": "570",
+        "pokemonname": "zorua"
+    },
+    {
+        "\"id\"": "571",
+        "pokemonname": "zoroark"
+    },
+    {
+        "\"id\"": "572",
+        "pokemonname": "minccino"
+    },
+    {
+        "\"id\"": "573",
+        "pokemonname": "cinccino"
+    },
+    {
+        "\"id\"": "574",
+        "pokemonname": "gothita"
+    },
+    {
+        "\"id\"": "575",
+        "pokemonname": "gothorita"
+    },
+    {
+        "\"id\"": "576",
+        "pokemonname": "gothitelle"
+    },
+    {
+        "\"id\"": "577",
+        "pokemonname": "solosis"
+    },
+    {
+        "\"id\"": "578",
+        "pokemonname": "duosion"
+    },
+    {
+        "\"id\"": "579",
+        "pokemonname": "reuniclus"
+    },
+    {
+        "\"id\"": "580",
+        "pokemonname": "ducklett"
+    },
+    {
+        "\"id\"": "581",
+        "pokemonname": "swanna"
+    },
+    {
+        "\"id\"": "582",
+        "pokemonname": "vanillite"
+    },
+    {
+        "\"id\"": "583",
+        "pokemonname": "vanillish"
+    },
+    {
+        "\"id\"": "584",
+        "pokemonname": "vanilluxe"
+    },
+    {
+        "\"id\"": "585",
+        "pokemonname": "deerling"
+    },
+    {
+        "\"id\"": "586",
+        "pokemonname": "sawsbuck"
+    },
+    {
+        "\"id\"": "587",
+        "pokemonname": "emolga"
+    },
+    {
+        "\"id\"": "588",
+        "pokemonname": "karrablast"
+    },
+    {
+        "\"id\"": "589",
+        "pokemonname": "escavalier"
+    },
+    {
+        "\"id\"": "590",
+        "pokemonname": "foongus"
+    },
+    {
+        "\"id\"": "591",
+        "pokemonname": "amoonguss"
+    },
+    {
+        "\"id\"": "592",
+        "pokemonname": "frillish"
+    },
+    {
+        "\"id\"": "593",
+        "pokemonname": "jellicent"
+    },
+    {
+        "\"id\"": "594",
+        "pokemonname": "alomomola"
+    },
+    {
+        "\"id\"": "595",
+        "pokemonname": "joltik"
+    },
+    {
+        "\"id\"": "596",
+        "pokemonname": "galvantula"
+    },
+    {
+        "\"id\"": "597",
+        "pokemonname": "ferroseed"
+    },
+    {
+        "\"id\"": "598",
+        "pokemonname": "ferrothorn"
+    },
+    {
+        "\"id\"": "599",
+        "pokemonname": "klink"
+    },
+    {
+        "\"id\"": "600",
+        "pokemonname": "klang"
+    },
+    {
+        "\"id\"": "601",
+        "pokemonname": "klinklang"
+    },
+    {
+        "\"id\"": "602",
+        "pokemonname": "tynamo"
+    },
+    {
+        "\"id\"": "603",
+        "pokemonname": "eelektrik"
+    },
+    {
+        "\"id\"": "604",
+        "pokemonname": "eelektross"
+    },
+    {
+        "\"id\"": "605",
+        "pokemonname": "elgyem"
+    },
+    {
+        "\"id\"": "606",
+        "pokemonname": "beheeyem"
+    },
+    {
+        "\"id\"": "607",
+        "pokemonname": "litwick"
+    },
+    {
+        "\"id\"": "608",
+        "pokemonname": "lampent"
+    },
+    {
+        "\"id\"": "609",
+        "pokemonname": "chandelure"
+    },
+    {
+        "\"id\"": "610",
+        "pokemonname": "axew"
+    },
+    {
+        "\"id\"": "611",
+        "pokemonname": "fraxure"
+    },
+    {
+        "\"id\"": "612",
+        "pokemonname": "haxorus"
+    },
+    {
+        "\"id\"": "613",
+        "pokemonname": "cubchoo"
+    },
+    {
+        "\"id\"": "614",
+        "pokemonname": "beartic"
+    },
+    {
+        "\"id\"": "615",
+        "pokemonname": "cryogonal"
+    },
+    {
+        "\"id\"": "616",
+        "pokemonname": "shelmet"
+    },
+    {
+        "\"id\"": "617",
+        "pokemonname": "accelgor"
+    },
+    {
+        "\"id\"": "618",
+        "pokemonname": "stunfisk"
+    },
+    {
+        "\"id\"": "619",
+        "pokemonname": "mienfoo"
+    },
+    {
+        "\"id\"": "620",
+        "pokemonname": "mienshao"
+    },
+    {
+        "\"id\"": "621",
+        "pokemonname": "druddigon"
+    },
+    {
+        "\"id\"": "622",
+        "pokemonname": "golett"
+    },
+    {
+        "\"id\"": "623",
+        "pokemonname": "golurk"
+    },
+    {
+        "\"id\"": "624",
+        "pokemonname": "pawniard"
+    },
+    {
+        "\"id\"": "625",
+        "pokemonname": "bisharp"
+    },
+    {
+        "\"id\"": "626",
+        "pokemonname": "bouffalant"
+    },
+    {
+        "\"id\"": "627",
+        "pokemonname": "rufflet"
+    },
+    {
+        "\"id\"": "628",
+        "pokemonname": "braviary"
+    },
+    {
+        "\"id\"": "629",
+        "pokemonname": "vullaby"
+    },
+    {
+        "\"id\"": "630",
+        "pokemonname": "mandibuzz"
+    },
+    {
+        "\"id\"": "631",
+        "pokemonname": "heatmor"
+    },
+    {
+        "\"id\"": "632",
+        "pokemonname": "durant"
+    },
+    {
+        "\"id\"": "633",
+        "pokemonname": "deino"
+    },
+    {
+        "\"id\"": "634",
+        "pokemonname": "zweilous"
+    },
+    {
+        "\"id\"": "635",
+        "pokemonname": "hydreigon"
+    },
+    {
+        "\"id\"": "636",
+        "pokemonname": "larvesta"
+    },
+    {
+        "\"id\"": "637",
+        "pokemonname": "volcarona"
+    },
+    {
+        "\"id\"": "638",
+        "pokemonname": "cobalion"
+    },
+    {
+        "\"id\"": "639",
+        "pokemonname": "terrakion"
+    },
+    {
+        "\"id\"": "640",
+        "pokemonname": "virizion"
+    },
+    {
+        "\"id\"": "641",
+        "pokemonname": "tornadus"
+    },
+    {
+        "\"id\"": "642",
+        "pokemonname": "thundurus"
+    },
+    {
+        "\"id\"": "643",
+        "pokemonname": "reshiram"
+    },
+    {
+        "\"id\"": "644",
+        "pokemonname": "zekrom"
+    },
+    {
+        "\"id\"": "645",
+        "pokemonname": "landorus"
+    },
+    {
+        "\"id\"": "646",
+        "pokemonname": "kyurem"
+    },
+    {
+        "\"id\"": "647",
+        "pokemonname": "keldeo"
+    },
+    {
+        "\"id\"": "648",
+        "pokemonname": "meloetta-aria"
+    },
+    {
+        "\"id\"": "649",
+        "pokemonname": "genesect"
+    },
+    {
+        "\"id\"": "650",
+        "pokemonname": "chespin"
+    },
+    {
+        "\"id\"": "651",
+        "pokemonname": "quilladin"
+    },
+    {
+        "\"id\"": "652",
+        "pokemonname": "chesnaught"
+    },
+    {
+        "\"id\"": "653",
+        "pokemonname": "fennekin"
+    },
+    {
+        "\"id\"": "654",
+        "pokemonname": "braixen"
+    },
+    {
+        "\"id\"": "655",
+        "pokemonname": "delphox"
+    },
+    {
+        "\"id\"": "656",
+        "pokemonname": "froakie"
+    },
+    {
+        "\"id\"": "657",
+        "pokemonname": "frogadier"
+    },
+    {
+        "\"id\"": "658",
+        "pokemonname": "greninja"
+    },
+    {
+        "\"id\"": "659",
+        "pokemonname": "bunnelby"
+    },
+    {
+        "\"id\"": "660",
+        "pokemonname": "diggersby"
+    },
+    {
+        "\"id\"": "661",
+        "pokemonname": "fletchling"
+    },
+    {
+        "\"id\"": "662",
+        "pokemonname": "fletchinder"
+    },
+    {
+        "\"id\"": "663",
+        "pokemonname": "talonflame"
+    },
+    {
+        "\"id\"": "664",
+        "pokemonname": "scatterbug"
+    },
+    {
+        "\"id\"": "665",
+        "pokemonname": "spewpa"
+    },
+    {
+        "\"id\"": "666",
+        "pokemonname": "vivillon"
+    },
+    {
+        "\"id\"": "667",
+        "pokemonname": "litleo"
+    },
+    {
+        "\"id\"": "668",
+        "pokemonname": "pyroar"
+    },
+    {
+        "\"id\"": "669",
+        "pokemonname": "flabebe"
+    },
+    {
+        "\"id\"": "670",
+        "pokemonname": "floette"
+    },
+    {
+        "\"id\"": "671",
+        "pokemonname": "florges"
+    },
+    {
+        "\"id\"": "672",
+        "pokemonname": "skiddo"
+    },
+    {
+        "\"id\"": "673",
+        "pokemonname": "gogoat"
+    },
+    {
+        "\"id\"": "674",
+        "pokemonname": "pancham"
+    },
+    {
+        "\"id\"": "675",
+        "pokemonname": "pangoro"
+    },
+    {
+        "\"id\"": "676",
+        "pokemonname": "furfrou"
+    },
+    {
+        "\"id\"": "677",
+        "pokemonname": "espurr"
+    },
+    {
+        "\"id\"": "678",
+        "pokemonname": "meowstic"
+    },
+    {
+        "\"id\"": "679",
+        "pokemonname": "honedge"
+    },
+    {
+        "\"id\"": "680",
+        "pokemonname": "doublade"
+    },
+    {
+        "\"id\"": "681",
+        "pokemonname": "aegislash"
+    },
+    {
+        "\"id\"": "682",
+        "pokemonname": "spritzee"
+    },
+    {
+        "\"id\"": "683",
+        "pokemonname": "aromatisse"
+    },
+    {
+        "\"id\"": "684",
+        "pokemonname": "swirlix"
+    },
+    {
+        "\"id\"": "685",
+        "pokemonname": "slurpuff"
+    },
+    {
+        "\"id\"": "686",
+        "pokemonname": "inkay"
+    },
+    {
+        "\"id\"": "687",
+        "pokemonname": "malamar"
+    },
+    {
+        "\"id\"": "688",
+        "pokemonname": "binacle"
+    },
+    {
+        "\"id\"": "689",
+        "pokemonname": "barbaracle"
+    },
+    {
+        "\"id\"": "690",
+        "pokemonname": "skrelp"
+    },
+    {
+        "\"id\"": "691",
+        "pokemonname": "dragalge"
+    },
+    {
+        "\"id\"": "692",
+        "pokemonname": "clauncher"
+    },
+    {
+        "\"id\"": "693",
+        "pokemonname": "clawitzer"
+    },
+    {
+        "\"id\"": "694",
+        "pokemonname": "helioptile"
+    },
+    {
+        "\"id\"": "695",
+        "pokemonname": "heliolisk"
+    },
+    {
+        "\"id\"": "696",
+        "pokemonname": "tyrunt"
+    },
+    {
+        "\"id\"": "697",
+        "pokemonname": "tyrantrum"
+    },
+    {
+        "\"id\"": "698",
+        "pokemonname": "amaura"
+    },
+    {
+        "\"id\"": "699",
+        "pokemonname": "aurorus"
+    },
+    {
+        "\"id\"": "700",
+        "pokemonname": "sylveon"
+    },
+    {
+        "\"id\"": "701",
+        "pokemonname": "hawlucha"
+    },
+    {
+        "\"id\"": "702",
+        "pokemonname": "dedenne"
+    },
+    {
+        "\"id\"": "703",
+        "pokemonname": "carbink"
+    },
+    {
+        "\"id\"": "704",
+        "pokemonname": "goomy"
+    },
+    {
+        "\"id\"": "705",
+        "pokemonname": "sliggoo"
+    },
+    {
+        "\"id\"": "706",
+        "pokemonname": "goodra"
+    },
+    {
+        "\"id\"": "707",
+        "pokemonname": "klefki"
+    },
+    {
+        "\"id\"": "708",
+        "pokemonname": "phantump"
+    },
+    {
+        "\"id\"": "709",
+        "pokemonname": "trevenant"
+    },
+    {
+        "\"id\"": "710",
+        "pokemonname": "pumpkaboo"
+    },
+    {
+        "\"id\"": "711",
+        "pokemonname": "gourgeist"
+    },
+    {
+        "\"id\"": "712",
+        "pokemonname": "bergmite"
+    },
+    {
+        "\"id\"": "713",
+        "pokemonname": "avalugg"
+    },
+    {
+        "\"id\"": "714",
+        "pokemonname": "noibat"
+    },
+    {
+        "\"id\"": "715",
+        "pokemonname": "noivern"
+    },
+    {
+        "\"id\"": "716",
+        "pokemonname": "xerneas"
+    },
+    {
+        "\"id\"": "717",
+        "pokemonname": "yveltal"
+    },
+    {
+        "\"id\"": "718",
+        "pokemonname": "zygarde"
+    },
+    {
+        "\"id\"": "719",
+        "pokemonname": "diancie"
+    },
+    {
+        "\"id\"": "720",
+        "pokemonname": "hoopa"
+    },
+    {
+        "\"id\"": "721",
+        "pokemonname": "volcanion"
+    },
+    {
+        "\"id\"": "722",
+        "pokemonname": "rowlet"
+    },
+    {
+        "\"id\"": "723",
+        "pokemonname": "dartrix"
+    },
+    {
+        "\"id\"": "724",
+        "pokemonname": "decidueye"
+    },
+    {
+        "\"id\"": "725",
+        "pokemonname": "litten"
+    },
+    {
+        "\"id\"": "726",
+        "pokemonname": "torracat"
+    },
+    {
+        "\"id\"": "727",
+        "pokemonname": "incineroar"
+    },
+    {
+        "\"id\"": "728",
+        "pokemonname": "popplio"
+    },
+    {
+        "\"id\"": "729",
+        "pokemonname": "brionne"
+    },
+    {
+        "\"id\"": "730",
+        "pokemonname": "primarina"
+    },
+    {
+        "\"id\"": "731",
+        "pokemonname": "pikipek"
+    },
+    {
+        "\"id\"": "732",
+        "pokemonname": "trumbeak"
+    },
+    {
+        "\"id\"": "733",
+        "pokemonname": "toucannon"
+    },
+    {
+        "\"id\"": "734",
+        "pokemonname": "yungoos"
+    },
+    {
+        "\"id\"": "735",
+        "pokemonname": "gumshoos"
+    },
+    {
+        "\"id\"": "736",
+        "pokemonname": "grubbin"
+    },
+    {
+        "\"id\"": "737",
+        "pokemonname": "charjabug"
+    },
+    {
+        "\"id\"": "738",
+        "pokemonname": "vikavolt"
+    },
+    {
+        "\"id\"": "739",
+        "pokemonname": "crabrawler"
+    },
+    {
+        "\"id\"": "740",
+        "pokemonname": "crabominable"
+    },
+    {
+        "\"id\"": "741",
+        "pokemonname": "oricorio"
+    },
+    {
+        "\"id\"": "742",
+        "pokemonname": "cutiefly"
+    },
+    {
+        "\"id\"": "743",
+        "pokemonname": "ribombee"
+    },
+    {
+        "\"id\"": "744",
+        "pokemonname": "rockruff"
+    },
+    {
+        "\"id\"": "745",
+        "pokemonname": "lycanroc"
+    },
+    {
+        "\"id\"": "746",
+        "pokemonname": "wishiwashi"
+    },
+    {
+        "\"id\"": "747",
+        "pokemonname": "mareanie"
+    },
+    {
+        "\"id\"": "748",
+        "pokemonname": "toxapex"
+    },
+    {
+        "\"id\"": "749",
+        "pokemonname": "mudbray"
+    },
+    {
+        "\"id\"": "750",
+        "pokemonname": "mudsdale"
+    },
+    {
+        "\"id\"": "751",
+        "pokemonname": "dewpider"
+    },
+    {
+        "\"id\"": "752",
+        "pokemonname": "araquanid"
+    },
+    {
+        "\"id\"": "753",
+        "pokemonname": "fomantis"
+    },
+    {
+        "\"id\"": "754",
+        "pokemonname": "lurantis"
+    },
+    {
+        "\"id\"": "755",
+        "pokemonname": "morelull"
+    },
+    {
+        "\"id\"": "756",
+        "pokemonname": "shiinotic"
+    },
+    {
+        "\"id\"": "757",
+        "pokemonname": "salandit"
+    },
+    {
+        "\"id\"": "758",
+        "pokemonname": "salazzle"
+    },
+    {
+        "\"id\"": "759",
+        "pokemonname": "stufful"
+    },
+    {
+        "\"id\"": "760",
+        "pokemonname": "bewear"
+    },
+    {
+        "\"id\"": "761",
+        "pokemonname": "bounsweet"
+    },
+    {
+        "\"id\"": "762",
+        "pokemonname": "steenee"
+    },
+    {
+        "\"id\"": "763",
+        "pokemonname": "tsareena"
+    },
+    {
+        "\"id\"": "764",
+        "pokemonname": "comfey"
+    },
+    {
+        "\"id\"": "765",
+        "pokemonname": "oranguru"
+    },
+    {
+        "\"id\"": "766",
+        "pokemonname": "passimian"
+    },
+    {
+        "\"id\"": "767",
+        "pokemonname": "wimpod"
+    },
+    {
+        "\"id\"": "768",
+        "pokemonname": "golisopod"
+    },
+    {
+        "\"id\"": "769",
+        "pokemonname": "sandygast"
+    },
+    {
+        "\"id\"": "770",
+        "pokemonname": "palossand"
+    },
+    {
+        "\"id\"": "771",
+        "pokemonname": "pyukumuku"
+    },
+    {
+        "\"id\"": "772",
+        "pokemonname": "type-null"
+    },
+    {
+        "\"id\"": "773",
+        "pokemonname": "silvally"
+    },
+    {
+        "\"id\"": "774",
+        "pokemonname": "minior"
+    },
+    {
+        "\"id\"": "775",
+        "pokemonname": "komala"
+    },
+    {
+        "\"id\"": "776",
+        "pokemonname": "turtonator"
+    },
+    {
+        "\"id\"": "777",
+        "pokemonname": "togedemaru"
+    },
+    {
+        "\"id\"": "778",
+        "pokemonname": "mimikyu-disguised"
+    },
+    {
+        "\"id\"": "779",
+        "pokemonname": "bruxish"
+    },
+    {
+        "\"id\"": "780",
+        "pokemonname": "drampa"
+    },
+    {
+        "\"id\"": "781",
+        "pokemonname": "dhelmise"
+    },
+    {
+        "\"id\"": "782",
+        "pokemonname": "jangmo-o"
+    },
+    {
+        "\"id\"": "783",
+        "pokemonname": "hakamo-o"
+    },
+    {
+        "\"id\"": "784",
+        "pokemonname": "kommo-o"
+    },
+    {
+        "\"id\"": "785",
+        "pokemonname": "tapu-koko"
+    },
+    {
+        "\"id\"": "786",
+        "pokemonname": "tapu-lele"
+    },
+    {
+        "\"id\"": "787",
+        "pokemonname": "tapu-bulu"
+    },
+    {
+        "\"id\"": "788",
+        "pokemonname": "tapu-fini"
+    },
+    {
+        "\"id\"": "789",
+        "pokemonname": "cosmog"
+    },
+    {
+        "\"id\"": "790",
+        "pokemonname": "cosmoem"
+    },
+    {
+        "\"id\"": "791",
+        "pokemonname": "solgaleo"
+    },
+    {
+        "\"id\"": "792",
+        "pokemonname": "lunala"
+    },
+    {
+        "\"id\"": "793",
+        "pokemonname": "nihilego"
+    },
+    {
+        "\"id\"": "794",
+        "pokemonname": "buzzwole"
+    },
+    {
+        "\"id\"": "795",
+        "pokemonname": "pheromosa"
+    },
+    {
+        "\"id\"": "796",
+        "pokemonname": "xurkitree"
+    },
+    {
+        "\"id\"": "797",
+        "pokemonname": "celesteela"
+    },
+    {
+        "\"id\"": "798",
+        "pokemonname": "kartana"
+    },
+    {
+        "\"id\"": "799",
+        "pokemonname": "guzzlord"
+    },
+    {
+        "\"id\"": "800",
+        "pokemonname": "necrozma"
+    },
+    {
+        "\"id\"": "801",
+        "pokemonname": "magearna"
+    },
+    {
+        "\"id\"": "802",
+        "pokemonname": "marshadow"
+    }
+]
+        }
+    }
